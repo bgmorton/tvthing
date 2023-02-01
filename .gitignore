@@ -1,2 +1,3 @@
 media/*
+!.gitkeep
 played_items.txt
